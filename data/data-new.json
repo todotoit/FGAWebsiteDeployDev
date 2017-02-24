@@ -1,0 +1,148 @@
+{
+  "clips" : [
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Eric Schmidt", "url": "assets/full/06_schmidt_clip_1.mp4", "thumb": "img/thumbs/eschmidt-thumb.png", "title": "Una vita intelligente", "profession": "Presidente di Alphabet"},
+        {"name":"Chiara Marletto", "url": "assets/full/01_marletto_clip_2.mp4", "thumb": "img/thumbs/cmarletto-thumb.png", "title": "Molecole, iPhone e DNA", "profession": "Ricercatrice"},
+        {"name":"Carlo Ratti", "url": "assets/full/02_ratti_clip_2.mp4", "thumb": "img/thumbs/cratti-thumb.png", "title": "Meno stati più città", "profession": "Architetto"},
+        {"name":"Massimo Russo", "url": "assets/full/04_russo_clip_2.mp4", "thumb": "img/thumbs/mrusso-thumb.png", "title": "News deejay", "profession": "Giornalista"}
+      ],
+      "key":"intelligente"
+    },
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Federico Novaro", "url": "assets/full/05_novaro_clip_3.mp4", "thumb": "img/thumbs/fnovaro-thumb.png", "title": "Famiglia o famiglie?", "profession": "Scrittore"},
+        {"name":"Massimo Russo", "url": "assets/full/04_russo_clip_3.mp4", "thumb": "img/thumbs/mrusso-thumb.png", "title": "Senza rumore", "profession": "Giornalista"}
+      ],
+      "key":"positivo"
+    },
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Chiara Marletto", "url": "assets/full/01_marletto_clip_2.mp4", "thumb": "img/thumbs/cmarletto-thumb.png", "title": "Molecole, iPhone e DNA", "profession": "Ricercatrice"},
+        {"name":"Carlo Ratti", "url": "assets/full/02_ratti_clip_3.mp4", "thumb": "img/thumbs/cratti-thumb.png", "title": "Architettura open", "profession": "Architetto"},
+        {"name":"Massimo Russo", "url": "assets/full/04_russo_clip_2.mp4", "thumb": "img/thumbs/mrusso-thumb.png", "title": "News deejay", "profession": "Giornalista"}
+      ],
+      "key":"italiano"
+    },
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Carlo Ancelotti", "url": "assets/full/03_ancelotti_clip_1.mp4", "thumb": "img/thumbs/cancelotti-thumb.png", "title": "Un calcio globale", "profession": "Allenatore"}
+      ],
+      "key":"nella rete"
+    },
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Carlo Ancelotti", "url": "assets/full/03_ancelotti_clip_1.mp4", "thumb": "img/thumbs/cancelotti-thumb.png", "title": "Un calcio globale", "profession": "Allenatore"},
+        {"name":"Chiara Marletto", "url": "assets/full/01_marletto_clip_2.mp4", "thumb": "img/thumbs/cmarletto-thumb.png", "title": "Molecole, iPhone e DNA", "profession": "Ricercatrice"}
+      ],
+      "key":"solidale"
+    },
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Carlo Ancelotti", "url": "assets/full/03_ancelotti_clip_2.mp4", "thumb": "img/thumbs/cancelotti-thumb.png", "title": "La statistica non fa gol", "profession": "Allenatore"},
+        {"name":"Federico Novaro", "url": "assets/full/05_novaro_clip_2.mp4", "thumb": "img/thumbs/fnovaro-thumb.png", "title": "Famiglia o famiglie?", "profession": "Scrittore"},
+        {"name":"Carlo Ratti", "url": "assets/full/02_ratti_clip_2.mp4", "thumb": "img/thumbs/cratti-thumb.png", "title": "Meno stati più città", "profession": "Architetto"}
+      ],
+      "key":"una sfida"
+    },
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Carlo Ancelotti", "url": "assets/full/03_ancelotti_clip_1.mp4", "thumb": "img/thumbs/cancelotti-thumb.png", "title": "Un calcio globale", "profession": "Allenatore"}
+      ],
+      "key":"innovazione"
+    },
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Eric Schmidt", "url": "assets/full/06_schmidt_clip_2.mp4", "thumb": "img/thumbs/eschmidt-thumb.png", "title": "Lo smartphone in testa", "profession": "Presidente di Alphabet"},
+        {"name":"Chiara Marletto", "url": "assets/full/01_marletto_clip_3.mp4", "thumb": "img/thumbs/cmarletto-thumb.png", "title": "Il computer quantistico", "profession": "Ricercatrice"}
+      ],
+      "key":"tecnologico"
+    },
+    {
+      "clip": "assets/composite/teaser_temp.mov",
+      "videos": [
+        {"name":"Carlo Ratti", "url": "assets/full/02_ratti_clip_3.mp4", "thumb": "img/thumbs/cratti-thumb.png", "title": "Architettura open", "profession": "Architetto"},
+        {"name":"Chiara Marletto", "url": "assets/full/01_marletto_clip_3.mp4", "thumb": "img/thumbs/cmarletto-thumb.png", "title": "Il computer quantistico", "profession": "Ricercatrice"}
+      ],
+      "key":"visionario"
+    }
+  ],
+  "people":[
+    {
+      "key": "Massimo Russo",
+      "clip": "assets/single/04_russo_teaser.mp4",
+      "profession": "Giornalista",
+      "videos": [
+        {"name":"Massimo Russo", "url": "assets/full/04_russo_clip_1.mp4", "title": "Informazione su misura"},
+        {"name":"Massimo Russo", "url": "assets/full/04_russo_clip_2.mp4", "title": "News Deejay"},
+        {"name":"Massimo Russo", "url": "assets/full/04_russo_clip_3.mp4", "title": "Senza Rumore"}
+      ]
+    },
+    {
+      "key": "Erich Schmidt",
+      "clip": "assets/single/06_schmidt_teaser.mp4",
+      "profession": "Presidente di Alphabet",
+      "videos": [
+        {"name":"Eric Schmidt", "url": "assets/full/06_schmidt_clip_1.mp4", "title": "Lo smartphone in testa"},
+        {"name":"Eric Schmidt", "url": "assets/full/06_schmidt_clip_2.mp4", "title": "Nuove regole per il web"},
+        {"name":"Eric Schmidt", "url": "assets/full/06_schmidt_clip_3.mp4", "title": "Una vita intelligente"}
+      ]
+    },
+    {
+      "key": "Chiara Marletto",
+      "profession": "Ricercatrice",
+      "clip": "assets/single/01_marletto_teaser.mp4",
+      "videos": [
+        {"name":"Chiara Marletto", "url": "assets/full/01_marletto_clip_1.mp4", "title": "Nuove sfide per la fisica"},
+        {"name":"Chiara Marletto", "url": "assets/full/01_marletto_clip_2.mp4", "title": "Molecole, iPhone e DNA"},
+        {"name":"Chiara Marletto", "url": "assets/full/01_marletto_clip_3.mp4", "title": "Il computer quantistico"}
+      ]
+    },
+    {
+      "key": "Federico Novaro",
+      "profession": "Scrittore",
+      "clip": "assets/single/05_novaro_teaser.mp4",
+      "videos": [
+        {"name":"Federico Novaro", "url": "assets/full/05_novaro_clip_1.mp4", "title": "Amore 2.0"},
+        {"name":"Federico Novaro", "url": "assets/full/05_novaro_clip_2.mp4", "title": "Senza vergogna"},
+        {"name":"Federico Novaro", "url": "assets/full/05_novaro_clip_3.mp4", "title": "Famiglia o famiglie?"}
+      ]
+    },
+    {
+      "key": "Carlo Ancelotti",
+      "profession": "Allenatore",
+      "clip": "assets/single/03_ancelotti_teaser.mp4",
+      "videos": [
+        {"name":"Carlo Ancelotti", "url": "assets/full/03_ancelotti_clip_1.mp4", "title": "Un calcio globale"},
+        {"name":"Carlo Ancelotti", "url": "assets/full/03_ancelotti_clip_2.mp4", "title": "La statistica non fa gol"},
+        {"name":"Carlo Ancelotti", "url": "assets/full/03_ancelotti_clip_3.mp4", "title": "I calciatori del 2066"}
+      ]
+    },
+    {
+      "key": "Carlo Ratti",
+      "profession": "Architetto",
+      "clip": "assets/single/02_ratti_teaser.mp4",
+      "videos": [
+        {"name":"Carlo Ratti", "url": "assets/full/02_ratti_clip_1.mp4", "title": "Città e reti in movimento"},
+        {"name":"Carlo Ratti", "url": "assets/full/02_ratti_clip_2.mp4", "title": "Meno Stati, più città"},
+        {"name":"Carlo Ratti", "url": "assets/full/02_ratti_clip_3.mp4", "title": "Architettura open"}
+      ]
+    }
+  ],
+  "thumbs" : [
+    "img/thumbs/cancelotti-thumb.png",
+    "img/thumbs/cmarletto-thumb.png",
+    "img/thumbs/cratti-thumb.png",
+    "img/thumbs/eschmidt-thumb.png",
+    "img/thumbs/fnovaro-thumb.png",
+    "img/thumbs/mrusso-thumb.png"
+  ]
+}
