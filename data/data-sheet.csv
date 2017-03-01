@@ -1,179 +1,179 @@
-n. intervista,intervistato,top,estero,tema,data_intervista,nome_file,starter_id,clip_id,status,combinazione_colori,cover_titolo,check_length,sottopancia,parola_chiave_1,check_length,minutaggio_1,parola_chiave_2,check_length,minutaggio_2,parola_chiave_3,minutaggio_3,rough_edit,feedback_TODO,fine_edit,feedback_FGA,final_edit,tags,srt,thumb
-1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/01,kkBvWCjuJHg,UXzFzXgS_ws,approvato,Blu/verde,Informazione su misura,22,Giornalista,Che cosa è importante,21,,Un unico menù,13,,-,-,,,,,,informazione;giornalismo;immersivo;abitudini;personalizzato;tecnologia;tecnologie;positivo;digitale,,img/thumbs/mrusso-thumb.jpg
-1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/02,8aVOd7tBHOg,lYuXk5gk5eI,approvato,Magenta/ciano,News deejay,11,Giornalista,Selezionare,11,,Remixare,8,,-,-,,,,,,giornalista;lavoro;social network;informazione;giornalismo;,,img/thumbs/mrusso-thumb.jpg
-1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/03,A87iLi3oGqU,HJMxCGmQC0o,approvato,Rosso/giallo,Senza rumore,12,Giornalista,Miriade di schermi,18,,Fare gerarchia,14,,-,-,,,,,,informazione;giornalismo;giornalista;notizie,,img/thumbs/mrusso-thumb.jpg
-2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/01,4Xx1ZsggPAE,l_zsY36Wbyw,standby,Blu/verde,Nuove sfide per la fisica,25,Ricercatrice,Non vanno d'accordo,19,0'57'',Oggetti emergenti,17,1'28'',-,-,,,,,,fisica;ricerca;lavoro;innovazione,,img/thumbs/cmarletto-thumb.jpg
-2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/02,4Xx1ZsggPAE,l_zsY36Wbyw,standby,Magenta/ciano,"Molecole, iPhone e DNA",22,Ricercatrice,Copia di informazione,21,2'35'',-,1,-,-,-,,,,,,intelligente;informazione;ricerca;fisica,,img/thumbs/cmarletto-thumb.jpg
-2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/03,4Xx1ZsggPAE,l_zsY36Wbyw,standby,Rosso/giallo,Il computer quantistico,23,Ricercatrice,Limite fisico,13,4'14'',Algoritmi,9,4'45'',-,-,,,,,,tecnologico;visionario;tecnologia;innovazione;invenzioni;digitale;big data,,img/thumbs/cmarletto-thumb.jpg
-3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/01,WPcPeQ39PgU,51o4Bc9999U,mandare con grafiche,Blu/verde,Smartphone age,14,Chairman of Alphabet,New category of devices,23,1'02'',,0,-,-,-,,,,,chiedere progetto Premiere a CB,tecnologico;tecnologia;innovazione;internet;digitale,,img/thumbs/eschmidt-thumb.jpg
-3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/02,asyD-CuWHI0,BvgORKS3Igc,mandare con grafiche,Magenta/ciano,Cyberwar & privacy,18,Chairman of Alphabet,Privacy,7,1'47'',important for citizens,22,"1'55""",-,-,,,,,chiedere progetto Premiere a CB,internet;minacce;governo;digitale,,img/thumbs/eschmidt-thumb.jpg
-3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/03,etIiSjqGgI4,GxLxKlRWrQY,mandare con grafiche,Rosso/giallo,Smart life,10,Chairman of Alphabet,Helps you,9,3'39'',Interaction,11,3'49'',how far does that go?,-,,,,,chiedere progetto Premiere a CB,intelligente;informazione;ricerca;abitudini;positivo;digitale,,img/thumbs/eschmidt-thumb.jpg
-4,Alessandro Laterza,,,il Sud d'Italia,19-Oct,,,,standby,Blu/verde,Pasta-therapy,13,Editore,Qualità,7,0'59'',Benessere,9,1'23'',-,-,,,,,,Sud;Italia;sviluppo;ricerca;alimentazione;innovazione,,img/thumbs/
-4,Alessandro Laterza,,,il Sud d'Italia,19-Oct,,,,standby,Magenta/ciano,Un Sud in pieno sviluppo,24,Editore,Capitale umano,14,2'44'',-,1,-,-,-,,,,,,Sud;Italia;sviluppo;industria;turismo;scuola;,,img/thumbs/
-4,Alessandro Laterza,,,il Sud d'Italia,19-Oct,,,,standby,Rosso/giallo,Chiudere il divario,19,Editore,Realtà unitaria,15,3'39'',Invertire questa tendenza,25,4'19'',-,-,,,,,,Sud;Italia;minacce,,img/thumbs/
-5,Tito Boeri,,,le pensioni,19-Oct,,0pyzVTaZZiI,SC2x6Lxk_xY,mandare con grafiche,Blu/verde,Pensioni sostenibili,20,Economista,Reagisce,8,1'12'',Rischio demografico,19,1'47'',Pensioni integrative,-,,,,,chiedere progetto Premiere a CB,terza età;governo;,,img/thumbs/tboeri-thumb.jpg
-5,Tito Boeri,,,le pensioni,19-Oct,,Qlx7XJrQuaw,GDL4Bc8fsqU,mandare con grafiche,Magenta/ciano,Scontro generazionale?,22,Economista,Come si invecchierà,19,3'00'',Prendere la pensione,20,4'08'',-,-,,,,,chiedere progetto Premiere a CB,terza età;giovani;,,img/thumbs/tboeri-thumb.jpg
-5,Tito Boeri,,,le pensioni,19-Oct,,Ue1dlZxUkCw,bVtbRotSuMA,mandare con grafiche,Rosso/giallo,"Imparare, sempre",16,Economista,Incentivi giusti,16,5'13'',Formazione continua,19,6'01'',-,-,,,,,chiedere progetto Premiere a CB,formazione;terza età;lavoro,,img/thumbs/tboeri-thumb.jpg
-6,Enrico Letta,,,l'Europa,25-Oct,,,,final edit 22/2,Blu/verde,Europa a due cerchi,19,Politico,Istituzioni comuni,18,0'48'',Cittadini che contano,21,1'02'',-,-,,,,,fare export da Premiere,Europa;istituzioni;cittadini;,,img/thumbs/
-6,Enrico Letta,,,l'Europa,25-Oct,,,,final edit 22/2,Magenta/ciano,Il senso dell'Unione,20,Politico,Valori che condividiamo,23,2'13'',Italia leader,13,3'03'',-,,,,,,fare export da Premiere,Europa;valori,,img/thumbs/
-6,Enrico Letta,,,l'Europa,25-Oct,,,,final edit 22/2,Rosso/giallo,Immigrati integrati,19,Politico,Accogliere,10,3'50'',Senza discriminazioni,21,4'07'',Con le regole,-,,,,,fare export da Premiere,Europa;immigrazione;integrazione;governo,,img/thumbs/
-7,Carlo Ancelotti,Y,,il calcio,8-Nov,carlo_ancelotti/01,,,final edit 22/2,Blu/verde,Calcio globale,14,Allenatore,Meno differenze,15,0'25'',Ruolo più attivo dei club,25,-,-,-,,,,,fare export da Premiere,sport;globalizzazione;calcio,,img/thumbs/cancelotti-thumb.jpg
-7,Carlo Ancelotti,Y,,il calcio,8-Nov,carlo_ancelotti/02,,,final edit 22/2,Magenta/ciano,La statistica non fa gol,24,Allenatore,Monitorati,10,1'55'',-,1,-,-,-,,,,,fare export da Premiere,big data;sport;calcio,,img/thumbs/cancelotti-thumb.jpg
-7,Carlo Ancelotti,Y,,il calcio,8-Nov,carlo_ancelotti/03,,,final edit 22/2,Rosso/giallo,I calciatori del 2066,21,Allenatore,Continuerà a evolversi,22,3'13'',Recupero,8,3'23',-,-,,,,,fare export da Premiere,sport;calcio,,img/thumbs/cancelotti-thumb.jpg
-8,Carlo Ratti,,,la città,9-Nov,carlo_ratti/01,,,final edit 22/2,Blu/verde,Città e reti in movimento,25,Architetto,Il modo di vivere la città,26,0'40'',Moving web,10,1'06'',-,-,,,,,fare export da Premiere,città;urbanistica;architettura;web;innovazione;big data;digitale,,img/thumbs/cratti-thumb.jpg
-8,Carlo Ratti,,,la città,9-Nov,carlo_ratti/02,,,final edit 22/2,Magenta/ciano,"Meno Stati, più città",21,Architetto,Legge di Zipf,13,2'05'',Forza delle città piccole,25,-,-,-,,,,,fare export da Premiere,città;Italia,,img/thumbs/cratti-thumb.jpg
-8,Carlo Ratti,,,la città,9-Nov,carlo_ratti/03,,,final edit 22/2,Rosso/giallo,Architettura open,17,Architetto,Coesione sociale,16,3'11'',Agente mutageno,15,3'36'',-,-,,,,,fare export da Premiere,città;urbanistica;architettura;cittadini;solidarietà;coesione;,,img/thumbs/cratti-thumb.jpg
-9,Mario Calabresi,,,i giovani,16-Nov,,_Xm_20pCzTI,PUazRaX1imU,mandare con grafiche,Blu/verde,Cittadini globali,17,Giornalista,Stesso modo di consumare,24,0'37'',Legati ai territori,19,1'13'',-,-,,,,,chiedere progetto Premiere a CB,giovani;territorio;Italia;globalizzazione,,img/thumbs/mcalabresi-thumb.jpg
-9,Mario Calabresi,,,i giovani,16-Nov,,nFQoU7Uzs7A,FirEEU9p6Fc,mandare con grafiche,Magenta/ciano,Impegnato,9,Giornalista,Intorno ai temi,15,1'59'',I ragazzi si alzeranno,22,2'10'',Battaglie definite,-,,,,,chiedere progetto Premiere a CB,giovani;valori;minacce;,,img/thumbs/mcalabresi-thumb.jpg
-9,Mario Calabresi,,,i giovani,16-Nov,,MdnYKajDa9U,8kQMhmtnDK0,mandare con grafiche,Rosso/giallo,Sharing economy,15,Giornalista,Non la proprietà,16,2'42'',Poter avere esperienze,22,2'57'',Scambiandole,-,,,,,chiedere progetto Premiere a CB,giovani;abitudini;consumi;soldi,,img/thumbs/mcalabresi-thumb.jpg
-10,Federico Novaro,,,i sentimenti,25-Nov,federico_novaro/01,8H7lNmoeTcE,kq8ULeZN_SM,final edit 22/2,Blu/verde,Amore 2.0,9,Scrittore,Espressioni diverse,19,1'00'',-,1,-,-,-,,,,,chiedere progetto Premiere a CB,relazioni;giovani;social network;digitale,,img/thumbs/fnovaro-thumb.jpg
-10,Federico Novaro,,,i sentimenti,25-Nov,federico_novaro/02,_S_xbC5ILwo,9lkeqW-Nv-A,final edit 22/2,Magenta/ciano,Senza vergogna,14,Scrittore,In rete i propri corpi,22,2'11'',Passaggio,9,-,-,-,,,,,chiedere progetto Premiere a CB,giovani;social network;digitale,,img/thumbs/fnovaro-thumb.jpg
-10,Federico Novaro,,,i sentimenti,25-Nov,federico_novaro/03,oajc8mroU7U,Esll11icuYg,final edit 22/2,Rosso/giallo,Famiglia o famiglie?,20,Scrittore,Caducità dei sentimenti,23,3'34'',Reinventarsi,12,3'49'',-,-,,,,,chiedere progetto Premiere a CB,relazioni;famiglia,,img/thumbs/fnovaro-thumb.jpg
-11,Pietro Sella,,,la banca,6-Dec,,,,final edit 22/2,Blu/verde,La banca quasi invisibile,25,Banchiere,Sempre con me,13,1'00'',Mio consulente,14,1'26',-,-,,,,,export,soldi;abitudini;banca;digitale,,img/thumbs/
-11,Pietro Sella,,,la banca,6-Dec,,,,final edit 22/2,Magenta/ciano,Monete digitali,15,Banchiere,Identificando noi stessi,24,2'27'',-,1,-,-,-,,,,,export,soldi;abitudini;big data;digitale,,img/thumbs/
-11,Pietro Sella,,,la banca,6-Dec,,,,final edit 22/2,Rosso/giallo,Soldi più sicuri,16,Banchiere,Tracciabilità,13,3'08'',Bitcoin e Blockchain,20,3'42'',-,-,,,,,export,soldi;minacce;digitale,,img/thumbs/
-12,Federico Buffa,,,lo sport,1-Dec,,XaHUFlbxQeE,LwuASvQVe5E,mandare con grafiche,Blu/verde,"Citius, altius, fortius",23,Giornalista sportivo,un'era di gigantismo,20,5'20'',lo sport del mondo,18,5'50'',-,-,,,fare export da Premiere,,,sport;ottimismo;globalizzazione;calcio;basket,,img/thumbs/fbuffa-thumb.jpg
-12,Federico Buffa,,,lo sport,1-Dec,,bBf5X05vR90,q_3TRI_LOL4,mandare con grafiche,Magenta/ciano,Sport unisex,12,Giornalista sportivo,il futuro dell'umanità,22,1'37'',i migliori atleti,17,1'45'',-,-,,,fare export da Premiere,,,sport;parità;donne;nuoto,,img/thumbs/fbuffa-thumb.jpg
-12,Federico Buffa,,,lo sport,1-Dec,,34gZGSeL4tM,MS_rR9ofgDY,mandare con grafiche,Rosso/giallo,"Campioni, non modelli",21,Giornalista sportivo,per il mondo diseredato,23,2'32'',-,1,-,-,-,,,fare export da Premiere,,,sport;giovani;povertà;modelli,,img/thumbs/fbuffa-thumb.jpg
-13,Martina Bagnoli,,,il museo,7-Dec,,,,final edit 22/2,Blu/verde,La cultura è nostra,19,Direttrice Gallerie Estensi,una cosa di tutti,17,0'57'',parte della propria vita,24,-,-,-,,,export,,,patrimonio;memoria;cultura;musei;identità;estero,,img/thumbs/
-13,Martina Bagnoli,,,il museo,7-Dec,,,,final edit 22/2,Magenta/ciano,Il mondo nel museo,18,Direttrice Gallerie Estensi,imparare a guardare,19,1'58'',slow looking,12,2'07'',-,-,,,export,,,digitale;tecnologia;musei;cultura;arte,,img/thumbs/
-13,Martina Bagnoli,,,il museo,7-Dec,,,,final edit 22/2,Rosso/giallo,Musei in rete,13,Direttrice Gallerie Estensi,costantemente rigenerato,24,3'18'',Italia un museo diffuso,23,3'35'',-,-,,,export,,,turismo;cultura;patrimonio;musei;cibo;rinnovo;come ci vedono,,img/thumbs/
-14,Roberto Cingolani,,,la tecnologia,25-Nov,,,,mandare edit 17/2,Blu/verde,Multidisciplinare,17,Fisico,politica dell'innovazione,25,0'38'',competenze diverse,18,1'13'',-,-,,,fare export da Premiere,,,tecnologia;primati;multidisciplinarietà;soluzioni,,img/thumbs/
-14,Roberto Cingolani,,,la tecnologia,25-Nov,,,,mandare edit 17/2,Magenta/ciano,Welfare supertecnologico,24,Fisico,mantenere il sistema,20,3'53'',Italian lifestyle,17,4'38'',-,-,,,fare export da Premiere,,,welfare;tecnologia;anziani;robot,,img/thumbs/
-14,Roberto Cingolani,,,la tecnologia,25-Nov,,,,mandare edit 17/2,Rosso/giallo,Qualità della vita,18,Fisico,imbattibili,11,5'27'',politica tecnologica,20,5'45'',-,-,,,fare export da Premiere,,,tecnologia;Italia;qualità della vita;primati;plastica;sostenibilità;robot;intelligenza artificiale,,img/thumbs/
-15,Paola Antonelli,,,il design,30-Nov,,rWMb1kIpqT4,Nd_ymFpJWh0,mandare edit 17/2,Blu/verde,Design biologico,16,Curatrice MoMA New York,Bio-couture,11,1:50,-,1,-,-,-,,,fare export da Premiere,,,design;biologico;tecnologia;digitale;scienza;moda;materiali,,img/thumbs/pantonelli-thumb.jpg
-15,Paola Antonelli,,,il design,30-Nov,,9KQK6MvnVSk,kVkZF_THViE,mandare edit 17/2,Magenta/ciano,Adeguarsi al presente,21,Curatrice MoMA New York,Nuove piattaforme,17,"1'54""",primato italiano,16,"2'23""",-,-,,,fare export da Premiere,,,Italia;design;passato;digitale;biologico;come ci vedono,,img/thumbs/pantonelli-thumb.jpg
-15,Paola Antonelli,,,il design,30-Nov,,xnps2cS-oCc,dQqdojeJUuU,mandare edit 17/2,Rosso/giallo,Museo flessibile,16,Curatrice MoMA New York,Dimensione virtuale,19,3:00,Cambiare marcia,15,3:23,-,-,,,fare export da Premiere,,,musei;digitale;abitudini;robot;tecnologia,,img/thumbs/pantonelli-thumb.jpg
-16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,,,mandare edit 17/2,Blu/verde,Mamme elastiche,15,Blogger Nonsolomamma,Salti mortali,13,"0'41""",A misura di famiglia,20,"1'01""",rivoluzione,"1'46""",,,fare export da Premiere,,,famiglia;figli;donne;qualità della vita;lavoro;flessibilità;genitori,,img/thumbs/
-16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,,,mandare edit 17/2,Magenta/ciano,Papà migliori,13,Blogger Nonsolomamma,Accorgersi delle cose,21,5:40,Coinvolgimento condiviso,24,6'03'',-,-,,,fare export da Premiere,,,famiglia;figli;parità;abitudini;genitori,,img/thumbs/
-16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,,,mandare edit 17/2,Rosso/giallo,Girl power,10,Blogger Nonsolomamma,Sognarsi onnipotenti,20,6:45,Mediazione,10,7:29,-,-,,,fare export da Premiere,,,donne;parità;lavoro;potere;modelli,,img/thumbs/
-17,Raffaele Cantone,,,l'etica,1-Dec,,,,mandare edit 17/2,Blu/verde,La fine dei furbi,17,Magistrato,Educazione fiscale,18,2'43'',-,1,-,-,-,,,fare export da Premiere,,,tasse;governo;etica;legalità,,img/thumbs/
-17,Raffaele Cantone,,,l'etica,1-Dec,,,,mandare edit 17/2,Magenta/ciano,Trasparente,11,Magistrato,In tempo reale,14,5'50'',-,1,-,-,-,,,fare export da Premiere,,,istituzioni;digitale;tecnologia;trasparenza;cittadini,,img/thumbs/
-17,Raffaele Cantone,,,l'etica,1-Dec,,,,mandare edit 17/2,Rosso/giallo,Pubblico meritocratico,22,Magistrato,A chi merita,12,6'35'',-,1,-,-,-,,,fare export da Premiere,,,istituzioni;pubblica amministrazione;trasparenza;corruzione;meritocrazia;pubblico e privato,,img/thumbs/
-18,Maria Luisa Frisa,,,la moda,2-Dec,,,,mandare edit 17/2,Blu/verde,Gioco fra i sessi ,18,Fashion curator,Totale libertà,14,2'25'',scena culturale,15,"1'23""",-,-,,,,,,moda;genere;globalizzazione;cultura;abitudini;donne,,img/thumbs/
-18,Maria Luisa Frisa,,,la moda,2-Dec,,,,mandare edit 17/2,Magenta/ciano,Boutique enciclopedica,22,Fashion curator,Consultabile,12,"2'16""",ci penserà il web,17,"2'24""",-,-,,,,,,moda;abitudini;consumi;digitale;web,,img/thumbs/
-18,Maria Luisa Frisa,,,la moda,2-Dec,,,,mandare edit 17/2,Rosso/giallo,Lavorare made in Italy,22,Fashion curator,Sano disincanto,15,8'27'',simile agli artisti,19,"4'12""",-,-,,,,,,moda;primati;Italia;lavoro;come ci vedono;,,img/thumbs/
-19,Chiara Tonelli,,,le biotecnologie,6-Dec,,,,final edit 22/2,Blu/verde,Opportunità biotech,19,Genetista,Qualità della vita,18,0'47'',ambienti più sicuri,19,-,farmaci innovativi,-,,,export,,,biotecnologie;ottimismo;ricerca;sostenibilità;ambiente;salute;qualità della vita;agroalimentare;medicina,,img/thumbs/
-19,Chiara Tonelli,,,le biotecnologie,6-Dec,,,,final edit 22/2,Magenta/ciano,Superpiante antifame,20,Genetista,Cibo per tutti,14,3'34'',Piante più resistenti,21,-,-,-,,,export,,,agroalimentare;sostenibilità;poveri;sprechi;genetica;ricerca;acqua;risorse,,img/thumbs/
-19,Chiara Tonelli,,,le biotecnologie,6-Dec,,,,final edit 22/2,Rosso/giallo,Basta bufale,12,Genetista,OGM,3,6'35'',-,1,-,-,-,,,export,,,OGM;ricerca;paura;informazione;Internet;vaccini,,img/thumbs/
-20,Giuseppe Testa,,,la salute,16-Dec,,HtyZbJbWB_A,9sX77KMtgpU,mandare con grafiche,Blu/verde,Terapia genica per tutti?,25,Oncologo,Intervenire sul genoma,22,0'47'',Sarà migliore per quanti?,25,-,-,-,,,export,,,medicina;sostenibilità;sanità;innovazione;opportunità;equità,,img/thumbs/gtesta-thumb.jpg
-20,Giuseppe Testa,,,la salute,16-Dec,,SIkClpyGWMY,dlNJs_jk0_s,mandare con grafiche,Magenta/ciano,Nuove malattie,14,Oncologo,Malattie della longevità,24,2'22'',rapporto con l'ecosistema,25,3'06'',-,-,,,export,,,medicina;ambiente;sostenibilità;anziani;malattie;globalizzazione,,img/thumbs/gtesta-thumb.jpg
-20,Giuseppe Testa,,,la salute,16-Dec,,gvav3-L-PPU,2Czqe1jrhjI,mandare con grafiche,Rosso/giallo,Vertigine digitale,18,Oncologo,Riprogrammare,13,4:27,Avatar,6,4'43'',-,-,,,export,,,medicina;digitale;,,img/thumbs/gtesta-thumb.jpg
-21,Serena Giacomin,,,il clima,16-Dec,,YnbAHpQBqG8,96ys25XnyS0,mandare con grafiche,Blu/verde,Riscaldamento globale,21,Meteorologa,Più caldo,9,0'37'',Microclima,10,1'26'',-,-,,,export,,,clima;montagna;paesaggio;abitudini;ambiente,,img/thumbs/sgiacomin-thumb.jpg
-21,Serena Giacomin,,,il clima,16-Dec,,QHNfOpzTjB8,_UgnEMVVpsE,mandare con grafiche,Magenta/ciano,Una sfida da affrontare,23,Meteorologa,Ottimismo,9,2'29'',La giusta strada,16,-,-,-,,,export,,,ottimismo;ambiente;clima;,,img/thumbs/sgiacomin-thumb.jpg
-21,Serena Giacomin,,,il clima,16-Dec,,QjI4vaXoZW0,yN1LW393Prk,mandare con grafiche,Rosso/giallo,"Previsioni, non certezze",24,Meteorologa,Più dati,8,6'09'',Effetto farfalla,16,6'25'',-,-,,,export,,,tecnologia;big data;meteo;,,img/thumbs/sgiacomin-thumb.jpg
-22,Tomaso Poggio,,,l'intelligenza artificiale,16-Dec,,,,mandare edit 17/2,Blu/verde,Intelligente!,13,Neuroscienziato,L'intelligenza umana,20,0:34,-,1,-,-,-,,,,,,scienza;tecnologia;AI;progresso,,img/thumbs/
-22,Tomaso Poggio,,,l'intelligenza artificiale,16-Dec,,,,mandare edit 17/2,Magenta/ciano,Babysitter dei robot,20,Neuroscienziato,Le domande giuste,17,2'48'',-,1,-,-,-,,,,,,scienza;tecnolgia;automobili;AI;abitudini;robot,,img/thumbs/
-22,Tomaso Poggio,,,l'intelligenza artificiale,16-Dec,,,,mandare edit 17/2,Rosso/giallo,- lavoro + arte,15,Neuroscienziato,Ingegneria sociale,18,6'13'',Riciclare la ricchezza,22,6'40'',-,-,,,,,,lavoro;computer;AI;società;ricchezza;ottimismo,,img/thumbs/
-23,Bebe Vio,Y,,la disabilità,20-Dec,,,,final edit 22/2,Blu/verde,50% robot,9,Atleta,Non abbiamo limiti,18,0'43'',-,1,-,-,-,,,export,,,disabilità;tecnologia;opportunità;ottimismo;medicina,,img/thumbs/
-23,Bebe Vio,Y,,la disabilità,20-Dec,,,,final edit 22/2,Magenta/ciano,Accessibile per tutti,21,Atleta,Un paio di occhiali,19,1'35'',un mondo bellissimo,19,1'51'',-,-,,,export,,,disabilità;accessibilità;paura,,img/thumbs/
-23,Bebe Vio,Y,,la disabilità,20-Dec,,,,final edit 22/2,Rosso/giallo,Disabilità in estinzione,24,Atleta,cose superbelle,15,2'48'',tutte persone normali,21,-,-,-,,,export,,,disabilità;ottimismo;discriminazione;parità;vaccini,,img/thumbs/
-24,Catia Bastioli,,,la bioeconomia,23-Gen,,,,final edit 22/2,Blu/verde,Primi in bioeconomia,20,Scienziata,In anticipo,11,0:44,Rigenerazione,13,1'32'',-,-,,,export,,,biotecnologie;tecnologia;primato;crescita;mediterraneo;politica;economia;territorio;network;bioeconomia,,img/thumbs/
-24,Catia Bastioli,,,la bioeconomia,23-Gen,,,,final edit 22/2,Magenta/ciano,Fare sistema,12,Scienziata,Progetti sistemici,18,2:32,Ponti,5,3'14'',-,-,,,export,,,territorio;materiali;crescita;network;ambiente;bioeconomia,,img/thumbs/
-24,Catia Bastioli,,,la bioeconomia,23-Gen,,,,final edit 22/2,Rosso/giallo,Buona plastica,14,Scienziata,come una buccia di mela,23,4'10'',Desertificazione,16,4:58,-,-,,,export,,,materiali;sostenibilità;rifiuti;ambiente;biotecnologie;crescita;network;bioeconomia;plastica,,img/thumbs/
-25,Maurizio Molinari,,,terrorismo,15-Dec,,,,riprese,Blu/verde,,0,Direttore 'La Stampa',,0,,,0,,,,,,,,,,,
-25,Maurizio Molinari,,,terrorismo,15-Dec,,,,riprese,Magenta/ciano,,0,Direttore 'La Stampa',,0,,,0,,,,,,,,,,,
-25,Maurizio Molinari,,,terrorismo,15-Dec,,,,riprese,Rosso/giallo,,0,Direttore 'La Stampa',,0,,,0,,,,,,,,,,,
-26,Titti Postiglione,,,protezione civile,16-Gen,,,,riprese,Blu/verde,,0,Coordinatore Emergenze Protezione Civile,,0,,,0,,,,,,,,,,,
-26,Titti Postiglione,,,protezione civile,16-Gen,,,,riprese,Magenta/ciano,,0,Coordinatore Emergenze Protezione Civile,,0,,,0,,,,,,,,,,,
-26,Titti Postiglione,,,protezione civile,16-Gen,,,,riprese,Rosso/giallo,,0,Coordinatore Emergenze Protezione Civile,,0,,,0,,,,,,,,,,,
-27,Esmeralda Elmazi,,,integrazione,18-Gen,,,,riprese,Blu/verde,,0,Avvocato,,0,,,0,,,,,,,,,,,
-27,Esmeralda Elmazi,,,integrazione,18-Gen,,,,riprese,Magenta/ciano,,0,Avvocato,,0,,,0,,,,,,,,,,,
-27,Esmeralda Elmazi,,,integrazione,18-Gen,,,,riprese,Rosso/giallo,,0,Avvocato,,0,,,0,,,,,,,,,,,
-28,Elena Cattaneo,,,neuroscienze,25-Gen,,,,riprese,Blu/verde,,0,Farmacologa/biologa,,0,,,0,,,,,,,,,,,
-28,Elena Cattaneo,,,neuroscienze,25-Gen,,,,riprese,Magenta/ciano,,0,Farmacologa/biologa,,0,,,0,,,,,,,,,,,
-28,Elena Cattaneo,,,neuroscienze,25-Gen,,,,riprese,Rosso/giallo,,0,Farmacologa/biologa,,0,,,0,,,,,,,,,,,
-29,Enrico Moretti,,,lavoro,25-gen,,,,riprese,Blu/verde,,0,Economista,,0,,,0,,,,,,,,,,,
-29,Enrico Moretti,,,lavoro,25-gen,,,,riprese,Magenta/ciano,,0,Economista,,0,,,0,,,,,,,,,,,
-29,Enrico Moretti,,,lavoro,25-gen,,,,riprese,Rosso/giallo,,0,Economista,,0,,,0,,,,,,,,,,,
-30,Francesco Daveri,,,,7-Feb,,,,riprese,Blu/verde,,0,Prof. Politica economica,,0,,,0,,,,,,,,,,,
-30,Francesco Daveri,,,,7-Feb,,,,riprese,Magenta/ciano,,0,Prof. Politica economica,,0,,,0,,,,,,,,,,,
-30,Francesco Daveri,,,,7-Feb,,,,riprese,Rosso/giallo,,0,Prof. Politica economica,,0,,,0,,,,,,,,,,,
-31,Roberta Ceretto,,,,7-Feb,,,,riprese,Blu/verde,,0,Viticoltore (?),,0,,,0,,,,,,,,,,,
-31,Roberta Ceretto,,,,7-Feb,,,,riprese,Magenta/ciano,,0,Viticoltore (?),,0,,,0,,,,,,,,,,,
-31,Roberta Ceretto,,,,7-Feb,,,,riprese,Rosso/giallo,,0,Viticoltore (?),,0,,,0,,,,,,,,,,,
-32,Melinda Gates,,Y,filantropia,15-Feb,,,,intervista fissata,Blu/verde,,0,Filantropa,,0,,,0,,,,,,,,,,,
-32,Melinda Gates,,Y,filantropia,15-Feb,,,,intervista fissata,Magenta/ciano,,0,Filantropa,,0,,,0,,,,,,,,,,,
-32,Melinda Gates,,Y,filantropia,15-Feb,,,,intervista fissata,Rosso/giallo,,0,Filantropa,,0,,,0,,,,,,,,,,,
-33,Vito Mancuso,,,religione,16-Feb,,,,intervista fissata,Blu/verde,,0,Teologo,,0,,,0,,,,,,,,,,,
-33,Vito Mancuso,,,religione,16-Feb,,,,intervista fissata,Magenta/ciano,,0,Teologo,,0,,,0,,,,,,,,,,,
-33,Vito Mancuso,,,religione,16-Feb,,,,intervista fissata,Rosso/giallo,,0,Teologo,,0,,,0,,,,,,,,,,,
-34,Luciano Floridi,,,diritti,16-Feb,,,,intervista fissata,Blu/verde,,0,Filosofo,,0,,,0,,,,,,,,,,,
-34,Luciano Floridi,,,diritti,16-Feb,,,,intervista fissata,Magenta/ciano,,0,Filosofo,,0,,,0,,,,,,,,,,,
-34,Luciano Floridi,,,diritti,16-Feb,,,,intervista fissata,Rosso/giallo,,0,Filosofo,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,
+n. intervista,intervistato,top,estero,tema,data_intervista,nome_file,starter_id,clip_id,status,combinazione_colori,cover_titolo,check_length,sottopancia,parola_chiave_1,check_length,minutaggio_1,parola_chiave_2,check_length,minutaggio_2,parola_chiave_3,minutaggio_3,rough_edit,feedback_TODO,fine_edit,feedback_FGA,final_edit,tags,srt_starter,srt_clip,thumb
+1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/01,kkBvWCjuJHg,UXzFzXgS_ws,approvato,Blu/verde,Informazione su misura,22,Giornalista,Che cosa è importante,21,,Un unico menù,13,,-,-,,,,,,informazione;giornalismo;immersivo;abitudini;personalizzato;tecnologia;tecnologia;ottimismo;digitale,,,img/thumbs/mrusso-thumb.png
+1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/02,8aVOd7tBHOg,lYuXk5gk5eI,approvato,Magenta/ciano,News deejay,11,Giornalista,Selezionare,11,,Remixare,8,,-,-,,,,,,lavoro;social network;informazione;giornalismo;professioni del futuro,,,img/thumbs/mrusso-thumb.png
+1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/03,A87iLi3oGqU,HJMxCGmQC0o,approvato,Rosso/giallo,Senza rumore,12,Giornalista,Miriade di schermi,18,,Fare gerarchia,14,,-,-,,,,,,informazione;giornalismo,,,img/thumbs/mrusso-thumb.png
+2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/01,,,standby,Blu/verde,Nuove sfide per la fisica,25,Fisica (TBC),Non vanno d'accordo,19,0'57'',Oggetti emergenti,17,1'28'',-,-,,,,,,fisica;ricerca;lavoro;professioni del futuro;innovazione,,,img/thumbs/cmarletto-thumb.png
+2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/02,,,standby,Magenta/ciano,"Molecole, iPhone e DNA",22,Fisica (TBC),Copia di informazione,21,2'35'',-,1,-,-,-,,,,,,intelligente;informazione;ricerca;fisica,,,img/thumbs/cmarletto-thumb.png
+2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/03,,,standby,Rosso/giallo,Il computer quantistico,23,Fisica (TBC),Limite fisico,13,4'14'',Algoritmi,9,4'45'',-,-,,,,,,visionario;tecnologia;innovazione;invenzioni;digitale;big data,,,img/thumbs/cmarletto-thumb.png
+3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/01,WPcPeQ39PgU,51o4Bc9999U,approvato da MG/export,Blu/verde,Smartphone age,14,Executive Chairman of Google (TBC),New category of devices,23,1'02'',,0,-,-,-,,,,,chiedere progetto Premiere a CB,tecnologia;innovazione;oggetti del futuro;internet;digitale,,,img/thumbs/eschmidt-thumb.png
+3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/02,asyD-CuWHI0,BvgORKS3Igc,approvato da MG/export,Magenta/ciano,Cyberwar & privacy,18,Executive Chairman of Google (TBC),Privacy,7,1'47'',important for citizens,22,"1'55""",-,-,,,,,chiedere progetto Premiere a CB,internet;minacce;governo;digitale,,,img/thumbs/eschmidt-thumb.png
+3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/03,etIiSjqGgI4,GxLxKlRWrQY,approvato da MG/export,Rosso/giallo,Smart life,10,Executive Chairman of Google (TBC),Helps you,9,3'39'',Interaction,11,3'49'',how far does that go?,-,,,,,chiedere progetto Premiere a CB,intelligente;informazione;ricerca;professioni del futuro;abitudini;ottimismo;digitale,,,img/thumbs/eschmidt-thumb.png
+4,Alessandro Laterza,,,il Sud d'Italia,19-Oct,,,,standby,Blu/verde,Pasta-therapy,13,Editore,Qualità,7,0'59'',Benessere,9,1'23'',-,-,,,,,,Sud;Italia;sviluppo;professioni del futuro;ricerca;cibo;innovazione;agroalimentare,,,img/thumbs/
+4,Alessandro Laterza,,,il Sud d'Italia,19-Oct,,,,standby,Magenta/ciano,Un Sud in pieno sviluppo,24,Editore,Capitale umano,14,2'44'',-,1,-,-,-,,,,,,Sud;Italia;sviluppo;industria;turismo;scuola;,,,img/thumbs/
+4,Alessandro Laterza,,,il Sud d'Italia,19-Oct,,,,standby,Rosso/giallo,Chiudere il divario,19,Editore,Realtà unitaria,15,3'39'',Invertire questa tendenza,25,4'19'',-,-,,,,,,Sud;Italia;minacce,,,img/thumbs/
+5,Tito Boeri,,,le pensioni,19-Oct,,0pyzVTaZZiI,SC2x6Lxk_xY,approvato da MG/export,Blu/verde,Pensioni sostenibili,20,Presidente INPS,Reagisce,8,1'12'',Rischio demografico,19,1'47'',Pensioni integrative,-,,,,,chiedere progetto Premiere a CB,anziani;governo;pensioni;welfare,,,img/thumbs/tboeri-thumb.png
+5,Tito Boeri,,,le pensioni,19-Oct,,Qlx7XJrQuaw,GDL4Bc8fsqU,approvato da MG/export,Magenta/ciano,Scontro generazionale?,22,Presidente INPS,Come si invecchierà,19,3'00'',Prendere la pensione,20,4'08'',-,-,,,,,chiedere progetto Premiere a CB,anziani;giovani;pensioni;welfare,,,img/thumbs/tboeri-thumb.png
+5,Tito Boeri,,,le pensioni,19-Oct,,Ue1dlZxUkCw,bVtbRotSuMA,approvato da MG/export,Rosso/giallo,"Imparare, sempre",16,Presidente INPS,Incentivi giusti,16,5'13'',Formazione continua,19,6'01'',-,-,,,,,chiedere progetto Premiere a CB,professioni del futuro;formazione;anziani;lavoro,,,img/thumbs/tboeri-thumb.png
+6,Enrico Letta,,,l'Europa,25-Oct,,,,approvato da MG,Blu/verde,Europa a due cerchi,19,Politico,Istituzioni comuni,18,0'48'',Cittadini che contano,21,1'02'',-,-,,,,,fare export da Premiere,Europa;istituzioni;cittadini;,,,img/thumbs/
+6,Enrico Letta,,,l'Europa,25-Oct,,,,approvato da MG,Magenta/ciano,Il senso dell'Unione,20,Politico,Valori che condividiamo,23,2'13'',Italia leader,13,3'03'',-,,,,,,fare export da Premiere,Europa;valori,,,img/thumbs/
+6,Enrico Letta,,,l'Europa,25-Oct,,,,approvato da MG,Rosso/giallo,Immigrati integrati,19,Politico,Accogliere,10,3'50'',Senza discriminazioni,21,4'07'',Con le regole,-,,,,,fare export da Premiere,Europa;immigrazione;integrazione;governo,,,img/thumbs/
+7,Carlo Ancelotti,Y,,il calcio,8-Nov,carlo_ancelotti/01,,,approvato da MG,Blu/verde,Calcio globale,14,Allenatore,Meno differenze,15,0'25'',Ruolo più attivo dei club,25,-,-,-,,,,,fare export da Premiere,sport;globalizzazione;calcio,,,img/thumbs/cancelotti-thumb.png
+7,Carlo Ancelotti,Y,,il calcio,8-Nov,carlo_ancelotti/02,,,approvato da MG,Magenta/ciano,La statistica non fa gol,24,Allenatore,Monitorati,10,1'55'',-,1,-,-,-,,,,,fare export da Premiere,big data;sport;calcio,,,img/thumbs/cancelotti-thumb.png
+7,Carlo Ancelotti,Y,,il calcio,8-Nov,carlo_ancelotti/03,,,approvato da MG,Rosso/giallo,I calciatori del 2066,21,Allenatore,Continuerà a evolversi,22,3'13'',Recupero,8,3'23',-,-,,,,,fare export da Premiere,sport;calcio,,,img/thumbs/cancelotti-thumb.png
+8,Carlo Ratti,,,la città,9-Nov,carlo_ratti/01,,,approvato da MG,Blu/verde,Città e reti in movimento,25,Architetto,Il modo di vivere la città,26,0'40'',Moving web,10,1'06'',-,-,,,,,fare export da Premiere,città;urbanistica;architettura;web;innovazione;big data;digitale,,,img/thumbs/cratti-thumb.png
+8,Carlo Ratti,,,la città,9-Nov,carlo_ratti/02,,,approvato da MG,Magenta/ciano,"Meno Stati, più città",21,Architetto,Legge di Zipf,13,2'05'',Forza delle città piccole,25,-,-,-,,,,,fare export da Premiere,città;Italia,,,img/thumbs/cratti-thumb.png
+8,Carlo Ratti,,,la città,9-Nov,carlo_ratti/03,,,approvato da MG,Rosso/giallo,Architettura open,17,Architetto,Coesione sociale,16,3'11'',Agente mutageno,15,3'36'',-,-,,,,,fare export da Premiere,città;urbanistica;architettura;cittadini;solidarietà;coesione;professioni del futuro,,,img/thumbs/cratti-thumb.png
+9,Mario Calabresi,,,i giovani,16-Nov,,_Xm_20pCzTI,PUazRaX1imU,approvato da MG/export,Blu/verde,Cittadini globali,17,Giornalista (TBC),Stesso modo di consumare,24,0'37'',Legati ai territori,19,1'13'',-,-,,,,,chiedere progetto Premiere a CB,giovani;territorio;Italia;globalizzazione,,,img/thumbs/mcalabresi-thumb.png
+9,Mario Calabresi,,,i giovani,16-Nov,,nFQoU7Uzs7A,FirEEU9p6Fc,approvato da MG/export,Magenta/ciano,Impegnato,9,Giornalista (TBC),Intorno ai temi,15,1'59'',I ragazzi si alzeranno,22,2'10'',Battaglie definite,-,,,,,chiedere progetto Premiere a CB,giovani;valori;minacce;,,,img/thumbs/mcalabresi-thumb.png
+9,Mario Calabresi,,,i giovani,16-Nov,,MdnYKajDa9U,8kQMhmtnDK0,approvato da MG/export,Rosso/giallo,Sharing economy,15,Giornalista (TBC),Non la proprietà,16,2'42'',Poter avere esperienze,22,2'57'',Scambiandole,-,,,,,chiedere progetto Premiere a CB,giovani;abitudini;consumi;soldi,,,img/thumbs/mcalabresi-thumb.png
+10,Federico Novaro,,,i sentimenti,25-Nov,federico_novaro/01,8H7lNmoeTcE,kq8ULeZN_SM,approvato da MG/export,Blu/verde,Amore 2.0,9,Scrittore e blogger,Espressioni diverse,19,1'00'',-,1,-,-,-,,,,,chiedere progetto Premiere a CB,relazioni;giovani;social network;digitale,,,img/thumbs/fnovaro-thumb.png
+10,Federico Novaro,,,i sentimenti,25-Nov,federico_novaro/02,_S_xbC5ILwo,9lkeqW-Nv-A,approvato da MG/export,Magenta/ciano,Senza vergogna,14,Scrittore e blogger,In rete i propri corpi,22,2'11'',Passaggio,9,-,-,-,,,,,chiedere progetto Premiere a CB,giovani;social network;digitale,,,img/thumbs/fnovaro-thumb.png
+10,Federico Novaro,,,i sentimenti,25-Nov,federico_novaro/03,oajc8mroU7U,Esll11icuYg,approvato da MG/export,Rosso/giallo,Famiglia o famiglie?,20,Scrittore e blogger,Caducità dei sentimenti,23,3'34'',Reinventarsi,12,3'49'',-,-,,,,,chiedere progetto Premiere a CB,relazioni;famiglia,,,img/thumbs/fnovaro-thumb.png
+11,Pietro Sella,,,la banca,6-Dec,,,,approvato da MG,Blu/verde,La banca quasi invisibile,25,Banchiere,Sempre con me,13,1'00'',Mio consulente,14,1'26',-,-,,,,,export,soldi;abitudini;banca;digitale,,,img/thumbs/
+11,Pietro Sella,,,la banca,6-Dec,,,,approvato da MG,Magenta/ciano,Monete digitali,15,Banchiere,Identificando noi stessi,24,2'27'',-,1,-,-,-,,,,,export,soldi;abitudini;big data;digitale,,,img/thumbs/
+11,Pietro Sella,,,la banca,6-Dec,,,,approvato da MG,Rosso/giallo,Soldi più sicuri,16,Banchiere,Tracciabilità,13,3'08'',Bitcoin e Blockchain,20,3'42'',-,-,,,,,export,soldi;minacce;digitale,,,img/thumbs/
+12,Federico Buffa,,,lo sport,1-Dec,,XaHUFlbxQeE,LwuASvQVe5E,approvato da MG/export,Blu/verde,"Citius, altius, fortius",23,Giornalista sportivo,un'era di gigantismo,20,5'20'',lo sport del mondo,18,5'50'',-,-,,,fare export da Premiere,,,sport;ottimismo;globalizzazione;calcio;basket,,,img/thumbs/fbuffa-thumb.png
+12,Federico Buffa,,,lo sport,1-Dec,,bBf5X05vR90,q_3TRI_LOL4,approvato da MG/export,Magenta/ciano,Sport unisex,12,Giornalista sportivo,il futuro dell'umanità,22,1'37'',i migliori atleti,17,1'45'',-,-,,,fare export da Premiere,,,sport;parità;donne;nuoto,,,img/thumbs/fbuffa-thumb.png
+12,Federico Buffa,,,lo sport,1-Dec,,34gZGSeL4tM,MS_rR9ofgDY,approvato da MG/export,Rosso/giallo,"Campioni, non modelli",21,Giornalista sportivo,per il mondo diseredato,23,2'32'',-,1,-,-,-,,,fare export da Premiere,,,sport;giovani;povertà;modelli,,,img/thumbs/fbuffa-thumb.png
+13,Martina Bagnoli,,,il museo,7-Dec,,,,approvato da MG,Blu/verde,La cultura è nostra,19,Direttrice Gallerie Estensi,una cosa di tutti,17,"0'28""",parte della propria vita,24,"0'53""",-,-,,,export,,,patrimonio;memoria;cultura;musei;identità;estero,,,img/thumbs/
+13,Martina Bagnoli,,,il museo,7-Dec,,,,approvato da MG,Magenta/ciano,Il mondo nel museo,18,Direttrice Gallerie Estensi,imparare a guardare,19,1'53'',slow looking,12,2'02'',-,-,,,export,,,digitale;tecnologia;musei;cultura;arte,,,img/thumbs/
+13,Martina Bagnoli,,,il museo,7-Dec,,,,approvato da MG,Rosso/giallo,Musei in rete,13,Direttrice Gallerie Estensi,costantemente rigenerato,24,"2'53""",Italia un museo diffuso,23,"3'13""",buone esperienze,"3'30""",,,export,,,turismo;cultura;patrimonio;musei;cibo;rinnovo;come ci vedono,,,img/thumbs/
+14,Roberto Cingolani,,,la tecnologia,25-Nov,,,,problematico - v. con Paolo,Blu/verde,Multidisciplinare,17,Fisico (o Nanotecnologo) TBC,politica dell'innovazione,25,0'38'',competenze diverse,18,1'13'',-,-,,,fare export da Premiere,,,tecnologia;eccellenze italiane;multidisciplinarietà;soluzioni,,,img/thumbs/
+14,Roberto Cingolani,,,la tecnologia,25-Nov,,,,problematico - v. con Paolo,Magenta/ciano,Welfare supertecnologico,24,Fisico (o Nanotecnologo) TBC,mantenere il sistema,20,3'53'',Italian lifestyle,17,4'38'',-,-,,,fare export da Premiere,,,welfare;tecnologia;anziani;robot,,,img/thumbs/
+14,Roberto Cingolani,,,la tecnologia,25-Nov,,,,problematico - v. con Paolo,Rosso/giallo,Qualità della vita,18,Fisico (o Nanotecnologo) TBC,imbattibili,11,5'27'',politica tecnologica,20,5'45'',-,-,,,fare export da Premiere,,,tecnologia;Italia;qualità della vita;eccellenze italiane;plastica;sostenibile;robot;intelligenza artificiale,,,img/thumbs/
+15,Paola Antonelli,,,il design,30-Nov,,rWMb1kIpqT4,Nd_ymFpJWh0,approvato da MG/export,Blu/verde,Design biologico,16,Curatrice MoMA New York,Bio-couture,11,1:50,-,1,-,-,-,,,fare export da Premiere,,,design;biologico;tecnologia;digitale;scienza;moda;materiali;bio,,,img/thumbs/pantonelli-thumb.png
+15,Paola Antonelli,,,il design,30-Nov,,9KQK6MvnVSk,kVkZF_THViE,approvato da MG/export,Magenta/ciano,Adeguarsi al presente,21,Curatrice MoMA New York,Nuove piattaforme,17,"1'54""",primato italiano,16,"2'23""",-,-,,,fare export da Premiere,,,Italia;design;passato;digitale;biologico;come ci vedono;bio,,,img/thumbs/pantonelli-thumb.png
+15,Paola Antonelli,,,il design,30-Nov,,xnps2cS-oCc,dQqdojeJUuU,approvato da MG/export,Rosso/giallo,Museo flessibile,16,Curatrice MoMA New York,Dimensione virtuale,19,3:00,Cambiare marcia,15,3:23,-,-,,,fare export da Premiere,,,musei;digitale;abitudini;robot;tecnologia,,,img/thumbs/pantonelli-thumb.png
+16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,NFCejtgFM8o,VnFp5gd61iU,approvato da MG/export,Blu/verde,Mamme elastiche,15,Blogger Nonsolomamma,Salti mortali,13,"0'41""",A misura di famiglia,20,"1'01""",rivoluzione,"1'46""",,,fare export da Premiere,,,famiglia;figli;donne;qualità della vita;lavoro;flessibilità;genitori,,,img/thumbs/
+16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,nNkuLhWH6TI,0DFjjVh6_TU,approvato da MG/export,Magenta/ciano,Papà migliori,13,Blogger Nonsolomamma,Accorgersi delle cose,21,5:40,Coinvolgimento condiviso,24,6'03'',-,-,,,fare export da Premiere,,,famiglia;figli;parità;abitudini;genitori,,,img/thumbs/
+16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,KA3mm_hyNx4,TiKAV0vhrUQ,approvato da MG/export,Rosso/giallo,Girl power,10,Blogger Nonsolomamma,Sognarsi onnipotenti,20,6:45,Mediazione,10,7:29,-,-,,,fare export da Premiere,,,donne;parità;lavoro;potere;modelli,,,img/thumbs/
+17,Raffaele Cantone,,,l'etica,1-Dec,,,,problematico - v. con Paolo,Blu/verde,La fine dei furbi,17,Presidente Authority Anticorruzione,Educazione fiscale,18,2'43'',-,1,-,-,-,,,fare export da Premiere,,,tasse;governo;etica;legalità,,,img/thumbs/
+17,Raffaele Cantone,,,l'etica,1-Dec,,,,problematico - v. con Paolo,Magenta/ciano,Trasparente,11,Presidente Authority Anticorruzione,In tempo reale,14,5'50'',-,1,-,-,-,,,fare export da Premiere,,,istituzioni;digitale;tecnologia;trasparenza;cittadini,,,img/thumbs/
+17,Raffaele Cantone,,,l'etica,1-Dec,,,,problematico - v. con Paolo,Rosso/giallo,Pubblico meritocratico,22,Presidente Authority Anticorruzione,A chi merita,12,6'35'',-,1,-,-,-,,,fare export da Premiere,,,istituzioni;pubblica amministrazione;trasparenza;corruzione;meritocrazia;pubblico e privato,,,img/thumbs/
+18,Maria Luisa Frisa,,,la moda,2-Dec,,05HN78qfziY,0qxLW42fVt0,approvato da MG/export,Blu/verde,Gioco fra i sessi ,18,Fashion curator,Totale libertà,14,2'25'',scena culturale,15,"1'23""",-,-,,,,,,moda;genere;globalizzazione;cultura;abitudini;donne,,,img/thumbs/
+18,Maria Luisa Frisa,,,la moda,2-Dec,,ivqJOJKHmkc,J4uv9kSB6PE,approvato da MG/export,Magenta/ciano,Boutique enciclopedica,22,Fashion curator,Consultabile,12,"2'16""",ci penserà il web,17,"2'24""",-,-,,,,,,moda;abitudini;consumi;digitale;web,,,img/thumbs/
+18,Maria Luisa Frisa,,,la moda,2-Dec,,fDGDCnXM9ag,bQiw7xVg1YA,approvato da MG/export,Rosso/giallo,Lavorare made in Italy,22,Fashion curator,Sano disincanto,15,8'27'',simile agli artisti,19,"4'12""",-,-,,,,,,moda;eccellenze italiane;Italia;lavoro;come ci vedono;,,,img/thumbs/
+19,Chiara Tonelli,,,le biotecnologie,6-Dec,,,,approvato da MG,Blu/verde,Opportunità biotech,19,Genetista,Qualità della vita,18,0'47'',alimenti più sicuri,19,"1'02""",farmaci innovativi,"1'13""",,,export,,,bio;biotecnologia;ottimismo;ricerca;sostenibile;ambiente;salute;qualità della vita;agroalimentare;medicina,,,img/thumbs/
+19,Chiara Tonelli,,,le biotecnologie,6-Dec,,,,approvato da MG,Magenta/ciano,Superpiante antifame,20,Genetista,Cibo per tutti,14,"2'02""",Piante più resistenti,21,"2'50""",meno sprecone,"3'28""",,,export,,,agroalimentare;sostenibile;povertà;sprechi;genetica;ricerca;acqua;risorse,,,img/thumbs/
+19,Chiara Tonelli,,,le biotecnologie,6-Dec,,,,approvato da MG,Rosso/giallo,Basta bufale,12,Genetista,il caso degli OGM,17,"4'06""",in rete i fatti,15,"5'03""",-,-,,,export,,,OGM;ricerca;paura;informazione;Internet;vaccini,,,img/thumbs/
+20,Giuseppe Testa,,,la salute,16-Dec,,HtyZbJbWB_A,9sX77KMtgpU,approvato da MG/export,Blu/verde,Terapia genica per tutti?,25,Oncologo,Intervenire sul genoma,22,0'47'',Sarà migliore per quanti?,25,-,-,-,,,export,,,medicina;sostenibile;salute;innovazione;opportunità;equità,,,img/thumbs/gtesta-thumb.png
+20,Giuseppe Testa,,,la salute,16-Dec,,SIkClpyGWMY,dlNJs_jk0_s,approvato da MG/export,Magenta/ciano,Nuove malattie,14,Oncologo,Malattie della longevità,24,2'22'',rapporto con l'ecosistema,25,3'06'',-,-,,,export,,,medicina;ambiente;sostenibile;anziani;malattie;globalizzazione,,,img/thumbs/gtesta-thumb.png
+20,Giuseppe Testa,,,la salute,16-Dec,,gvav3-L-PPU,2Czqe1jrhjI,approvato da MG/export,Rosso/giallo,Vertigine digitale,18,Oncologo,Riprogrammare,13,4:27,Avatar,6,4'43'',-,-,,,export,,,medicina;digitale;,,,img/thumbs/gtesta-thumb.png
+21,Serena Giacomin,,,il clima,16-Dec,,YnbAHpQBqG8,96ys25XnyS0,approvato da MG/export,Blu/verde,Riscaldamento globale,21,Meteorologa,Più caldo,9,0'37'',Microclima,10,1'26'',-,-,,,export,,,clima;montagna;paesaggio;abitudini;ambiente,,,img/thumbs/sgiacomin-thumb.png
+21,Serena Giacomin,,,il clima,16-Dec,,QHNfOpzTjB8,_UgnEMVVpsE,approvato da MG/export,Magenta/ciano,Una sfida da affrontare,23,Meteorologa,Ottimismo,9,2'29'',La giusta strada,16,-,-,-,,,export,,,ottimismo;ambiente;clima;,,,img/thumbs/sgiacomin-thumb.png
+21,Serena Giacomin,,,il clima,16-Dec,,QjI4vaXoZW0,yN1LW393Prk,approvato da MG/export,Rosso/giallo,"Previsioni, non certezze",24,Meteorologa,Più dati,8,6'09'',Effetto farfalla,16,6'25'',-,-,,,export,,,tecnologia;big data;meteo;,,,img/thumbs/sgiacomin-thumb.png
+22,Tomaso Poggio,,,l'intelligenza artificiale,16-Dec,,,,problematico - v. con Ale 27/2,Blu/verde,Intelligente!,13,Scienziato cognitivo,L'intelligenza umana,20,0:34,-,1,-,-,-,,,,,,scienza;tecnologia;intelligenza artificiale;progresso,,,img/thumbs/
+22,Tomaso Poggio,,,l'intelligenza artificiale,16-Dec,,,,problematico - v. con Ale 27/2,Magenta/ciano,Babysitter dei robot,20,Scienziato cognitivo,Le domande giuste,17,2'48'',-,1,-,-,-,,,,,,scienza;tecnologia;automobili;intelligenza artificiale;abitudini;robot,,,img/thumbs/
+22,Tomaso Poggio,,,l'intelligenza artificiale,16-Dec,,,,problematico - v. con Ale 27/2,Rosso/giallo,- lavoro + arte,15,Scienziato cognitivo,Ingegneria sociale,18,6'13'',Riciclare la ricchezza,22,6'40'',-,-,,,,,,lavoro;computer;intelligenza artificiale;società;ricchezza;ottimismo,,,img/thumbs/
+23,Bebe Vio,Y,,la disabilità,20-Dec,,,,approvato da MG,Blu/verde,50% robot,9,Atleta,Non abbiamo limiti,18,0'43'',-,1,-,-,-,,,export,,,disabilità;tecnologia;opportunità;ottimismo;medicina,,,img/thumbs/
+23,Bebe Vio,Y,,la disabilità,20-Dec,,,,approvato da MG,Magenta/ciano,Accessibile per tutti,21,Atleta,Un paio di occhiali,19,1'35'',un mondo bellissimo,19,1'51'',-,-,,,export,,,disabilità;accessibilità;paura,,,img/thumbs/
+23,Bebe Vio,Y,,la disabilità,20-Dec,,,,approvato da MG,Rosso/giallo,Disabilità in estinzione,24,Atleta,cose superbelle,15,2'48'',tutte persone normali,21,-,-,-,,,export,,,disabilità;ottimismo;discriminazione;parità;vaccini,,,img/thumbs/
+24,Catia Bastioli,,,la bioeconomia,23-Gen,,,,approvato da MG,Blu/verde,Primi in bioeconomia,20,Inventrice del Mater-Bi (TBC),Italia in anticipo,18,0:44,Rigenerazione,13,"1'28""",-,-,,,export,,,bio;biotecnologia;tecnologia;eccellenze italiane;crescita;mediterraneo;politica;economia;territorio;network;bioeconomia,,,img/thumbs/
+24,Catia Bastioli,,,la bioeconomia,23-Gen,,,,approvato da MG,Magenta/ciano,Fare sistema,12,Inventrice del Mater-Bi (TBC),Non solo rinnovabili,20,2:10,Progetto di sviluppo,20,2:45,Ponti,3'10,,,export,,,territorio;materiali;crescita;network;ambiente;bioeconomia;bio,,,img/thumbs/
+24,Catia Bastioli,,,la bioeconomia,23-Gen,,,,approvato da MG,Rosso/giallo,Buona plastica,14,Inventrice del Mater-Bi (TBC),come una buccia di mela,23,"4'03""",Humus di qualità,16,4:30,accelerazione,"4'45""",,,export,,,materiali;sostenibile;rifiuti;ambiente;biotecnologia;crescita;network;bioeconomia;plastica;bio,,,img/thumbs/
+25,Maurizio Molinari,,,terrorismo,15-Dec,,,,rough edit,Blu/verde,,0,Giornalista (TBC),,0,,,0,,,,,,,,,,,,
+25,Maurizio Molinari,,,terrorismo,15-Dec,,,,rough edit,Magenta/ciano,,0,Giornalista (TBC),,0,,,0,,,,,,,,,,,,
+25,Maurizio Molinari,,,terrorismo,15-Dec,,,,rough edit,Rosso/giallo,,0,Giornalista (TBC),,0,,,0,,,,,,,,,,,,
+26,Titti Postiglione,,,protezione civile,16-Gen,,,,rough edit,Blu/verde,,0,Coordinatore Emergenze PC,,0,,,0,,,,,,,,,,,,
+26,Titti Postiglione,,,protezione civile,16-Gen,,,,rough edit,Magenta/ciano,,0,Coordinatore Emergenze PC,,0,,,0,,,,,,,,,,,,
+26,Titti Postiglione,,,protezione civile,16-Gen,,,,rough edit,Rosso/giallo,,0,Coordinatore Emergenze PC,,0,,,0,,,,,,,,,,,,
+27,Esmeralda Elmazi,,,integrazione,18-Gen,,,,riprese,Blu/verde,,0,Avvocato,,0,,,0,,,,,,,,,,,,
+27,Esmeralda Elmazi,,,integrazione,18-Gen,,,,riprese,Magenta/ciano,,0,Avvocato,,0,,,0,,,,,,,,,,,,
+27,Esmeralda Elmazi,,,integrazione,18-Gen,,,,riprese,Rosso/giallo,,0,Avvocato,,0,,,0,,,,,,,,,,,,
+28,Elena Cattaneo,,,neuroscienze,25-Gen,,,,rough edit,Blu/verde,,0,Farmacologa/biologa (?),,0,,,0,,,,,,,,,,,,
+28,Elena Cattaneo,,,neuroscienze,25-Gen,,,,rough edit,Magenta/ciano,,0,Farmacologa/biologa (?),,0,,,0,,,,,,,,,,,,
+28,Elena Cattaneo,,,neuroscienze,25-Gen,,,,rough edit,Rosso/giallo,,0,Farmacologa/biologa (?),,0,,,0,,,,,,,,,,,,
+29,Enrico Moretti,,,lavoro,25-gen,,,,riprese,Blu/verde,,0,Economista,,0,,,0,,,,,,,,,,,,
+29,Enrico Moretti,,,lavoro,25-gen,,,,riprese,Magenta/ciano,,0,Economista,,0,,,0,,,,,,,,,,,,
+29,Enrico Moretti,,,lavoro,25-gen,,,,riprese,Rosso/giallo,,0,Economista,,0,,,0,,,,,,,,,,,,
+30,Francesco Daveri,,,,7-Feb,,,,rough edit,Blu/verde,,0,Economista politico,,0,,,0,,,,,,,,,,,,
+30,Francesco Daveri,,,,7-Feb,,,,rough edit,Magenta/ciano,,0,Economista politico,,0,,,0,,,,,,,,,,,,
+30,Francesco Daveri,,,,7-Feb,,,,rough edit,Rosso/giallo,,0,Economista politico,,0,,,0,,,,,,,,,,,,
+31,Roberta Ceretto,,,,7-Feb,,,,riprese,Blu/verde,,0,Viticoltore (?),,0,,,0,,,,,,,,,,,,
+31,Roberta Ceretto,,,,7-Feb,,,,riprese,Magenta/ciano,,0,Viticoltore (?),,0,,,0,,,,,,,,,,,,
+31,Roberta Ceretto,,,,7-Feb,,,,riprese,Rosso/giallo,,0,Viticoltore (?),,0,,,0,,,,,,,,,,,,
+32,Melinda Gates,,Y,filantropia,15-Feb,,,,riprese,Blu/verde,,0,Filantropa/Philantropist (per Schmidt avevamo messo in inglese),,0,,,0,,,,,,,,,,,,
+32,Melinda Gates,,Y,filantropia,15-Feb,,,,riprese,Magenta/ciano,,0,Filantropa/Philantropist (per Schmidt avevamo messo in inglese),,0,,,0,,,,,,,,,,,,
+32,Melinda Gates,,Y,filantropia,15-Feb,,,,riprese,Rosso/giallo,,0,Filantropa/Philantropist (per Schmidt avevamo messo in inglese),,0,,,0,,,,,,,,,,,,
+33,Vito Mancuso,,,religione,16-Feb,,,,riprese,Blu/verde,,0,Teologo,,0,,,0,,,,,,,,,,,,
+33,Vito Mancuso,,,religione,16-Feb,,,,riprese,Magenta/ciano,,0,Teologo,,0,,,0,,,,,,,,,,,,
+33,Vito Mancuso,,,religione,16-Feb,,,,riprese,Rosso/giallo,,0,Teologo,,0,,,0,,,,,,,,,,,,
+34,Luciano Floridi,,,diritti,16-Feb,,,,riprese,Blu/verde,,0,Filosofo,,0,,,0,,,,,,,,,,,,
+34,Luciano Floridi,,,diritti,16-Feb,,,,riprese,Magenta/ciano,,0,Filosofo,,0,,,0,,,,,,,,,,,,
+34,Luciano Floridi,,,diritti,16-Feb,,,,riprese,Rosso/giallo,,0,Filosofo,,0,,,0,,,,,,,,,,,,
+35,Fabiola Gianotti,Y,,la fisica,22-Mar,,,,intervista fissata,Blu/verde,,0,Direttrice del CERN,,0,,,0,,,,,,,,,,,,
+35,Fabiola Gianotti,Y,,la fisica,22-Mar,,,,intervista fissata,Magenta/ciano,,0,Direttrice del CERN,,0,,,0,,,,,,,,,,,,
+35,Fabiola Gianotti,Y,,la fisica,22-Mar,,,,intervista fissata,Rosso/giallo,,0,Direttrice del CERN,,0,,,0,,,,,,,,,,,,
+36,Jovanotti,Y,,la musica,1-Mar,,,,intervista fissata,,,0,,,0,,,0,,,,,,,,,,,,
+36,Jovanotti,Y,,la musica,1-Mar,,,,intervista fissata,,,0,,,0,,,0,,,,,,,,,,,,
+36,Jovanotti,Y,,la musica,1-Mar,,,,intervista fissata,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
+,,,,,,,,,,,,0,,,0,,,0,,,,,,,,,,,,
