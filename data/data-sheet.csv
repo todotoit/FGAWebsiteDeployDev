@@ -1,10 +1,10 @@
 n. intervista,intervistato,top,estero,tema,data_intervista,nome_file,starter_id,clip_id,status,combinazione_colori,cover_titolo,check_length,sottopancia,parola_chiave_1,check_length,minutaggio_1,parola_chiave_2,check_length,minutaggio_2,parola_chiave_3,minutaggio_3,tags,srt_starter,srt_clip,thumb
-1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/01,kkBvWCjuJHg,UXzFzXgS_ws,approvato,Blu/verde,Informazione su misura,22,Giornalista,Che cosa è importante,21,0'18'',Un unico menù,13,0'37'',-,-,informazione;giornalismo;immersivo;una vita diversa;personalizzato;tecnologico;tecnologico;positivo;digitale,,,img/thumbs/mrusso-thumb.png
-1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/02,8aVOd7tBHOg,lYuXk5gk5eI,approvato,Rosso/giallo,News deejay,11,Giornalista,Selezionare,11,0'31'',Remixare,8,0'44'',-,-,lavoro;social network;informazione;giornalismo;professioni del futuro,,,img/thumbs/mrusso-thumb.png
-1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/03,A87iLi3oGqU,HJMxCGmQC0o,approvato,Magenta/ciano,Senza rumore,12,Giornalista,Miriade di schermi,18,0'10'',Fare gerarchia,14,0'50'',-,-,informazione;giornalismo,,,img/thumbs/mrusso-thumb.png
-2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/02,,,final edit,Rosso/giallo,"Molecole, iPhone e DNA",22,Fisica (TBC),Copia di informazione,21,2'35'',-,1,-,-,-,fisica;ricerca;lavoro;professioni del futuro;innovativo,,,img/thumbs/cmarletto-thumb.png
-2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/03,,,final edit,Magenta/ciano,Il computer quantistico,23,Fisica (TBC),Limite fisico,13,4'14'',Algoritmi,9,4'45'',“lettura dei dati”,-,intelligente;informazione;ricerca;fisica,,,img/thumbs/cmarletto-thumb.png
-2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/01,,,final edit,Blu/verde,Scienza per giovani,19,Fisica (TBC),ragione profonda,16,0'57'',flessibile e fluida,19,1'28'',-,-,visionario;tecnologico;innovativo;digitale;big data,,,img/thumbs/cmarletto-thumb.png
+1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/01,kkBvWCjuJHg,UXzFzXgS_ws,APPROVATO,Blu/verde,Informazione su misura,22,Giornalista,Che cosa è importante,21,0'18'',Un unico menù,13,0'37'',-,-,informazione;giornalismo;immersivo;una vita diversa;personalizzato;tecnologico;tecnologico;positivo;digitale,,,img/thumbs/mrusso-thumb.png
+1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/02,8aVOd7tBHOg,lYuXk5gk5eI,APPROVATO,Rosso/giallo,News deejay,11,Giornalista,Selezionare,11,0'31'',Remixare,8,0'44'',-,-,lavoro;social network;informazione;giornalismo;professioni del futuro,,,img/thumbs/mrusso-thumb.png
+1,Massimo Russo,,,l'informazione,30-Aug,massimo_russo/03,A87iLi3oGqU,HJMxCGmQC0o,APPROVATO,Magenta/ciano,Senza rumore,12,Giornalista,Miriade di schermi,18,0'10'',Fare gerarchia,14,0'50'',-,-,informazione;giornalismo,,,img/thumbs/mrusso-thumb.png
+2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/02,K0OX5dpeKVk,EUR1WmChUMI,final edit,Rosso/giallo,"Molecole, iPhone e DNA",22,Fisica (TBC),Copia di informazione,21,2'35'',-,1,-,-,-,fisica;ricerca;lavoro;professioni del futuro;innovativo,,,img/thumbs/cmarletto-thumb.png
+2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/03,gHzGTGn9x8A,LpIdjqpqT28,final edit,Magenta/ciano,Il computer quantistico,23,Fisica (TBC),Limite fisico,13,4'14'',Algoritmi,9,4'45'',lettura dei dati,-,intelligente;informazione;ricerca;fisica,,,img/thumbs/cmarletto-thumb.png
+2,Chiara Marletto,,,la fisica,25-Oct,chiara_marletto/01,AmVh1La1LtY,XexadYyxB7Y,final edit,Blu/verde,Scienza per giovani,19,Fisica (TBC),ragione profonda,16,0'57'',flessibile e fluida,19,1'28'',-,-,visionario;tecnologico;innovativo;digitale;big data,,,img/thumbs/cmarletto-thumb.png
 3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/01,WPcPeQ39PgU,51o4Bc9999U,approvato,Blu/verde,Smartphone age,14,Executive Chairman Google,New category of devices,23,0'26'',-,1,-,-,-,tecnologico;innovativo;oggetti del futuro;internet;digitale,,,img/thumbs/eschmidt-thumb.png
 3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/02,asyD-CuWHI0,BvgORKS3Igc,approvato,Rosso/giallo,Cyberwar & privacy,18,Executive Chairman Google,Privacy,7,0'19'',important for citizens,22,0'27'',-,-,internet;minacce;governo;digitale,,,img/thumbs/eschmidt-thumb.png
 3,Eric Schmidt,,Y,l'internet,14-Nov,eric_schmidt/03,etIiSjqGgI4,GxLxKlRWrQY,approvato,Magenta/ciano,Smart life,10,Executive Chairman Google,Helps you,9,0'50'',Interaction,11,0'59'',how far does that go?,1'07'',intelligente;informazione;ricerca;professioni del futuro;una vita diversa;positivo;digitale,,,img/thumbs/eschmidt-thumb.png
@@ -46,16 +46,16 @@ n. intervista,intervistato,top,estero,tema,data_intervista,nome_file,starter_id,
 14,Roberto Cingolani,,,la tecnologia,25-Nov,,0xUsKEeKON4,Gqfw4scujQ4,approvato,Magenta/ciano,Qualità della vita,18,Direttore Ist. It. Tecnologia,imbattibili,11,0'18'',politica tecnologica,20,0'35'',-,-,tecnologico;Italiano;qualità della vita;eccellenze italiane;plastica;sostenibile;robot;intelligenza artificiale,,,img/thumbs/
 15,Paola Antonelli,,,il design,30-Nov,,rWMb1kIpqT4,Nd_ymFpJWh0,approvato,Blu/verde,Design biologico,16,Curatrice MoMA New York,Bio-couture,11,0'48'',-,1,-,-,-,design;tecnologico;digitale;scienza;moda;materiali;bio,,,img/thumbs/pantonelli-thumb.png
 15,Paola Antonelli,,,il design,30-Nov,,xnps2cS-oCc,dQqdojeJUuU,approvato,Rosso/giallo,Museo flessibile,16,Curatrice MoMA New York,Dimensione virtuale,19,0'14'',Cambiare marcia,15,0'38'',-,-,Italiano;design;passato;digitale;bio,,,img/thumbs/pantonelli-thumb.png
-15,Paola Antonelli,,,il design,30-Nov,,9KQK6MvnVSk,kVkZF_THViE,approvato,Magenta/ciano,Adeguarsi al presente,21,Curatrice MoMA New York,Nuove piattaforme,17,0'10'',primato italiano,16,0'40'',-,-,musei;digitale;una vita diversa;robot;tecnologico,,,img/thumbs/pantonelli-thumb.png
-16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,NFCejtgFM8o,VnFp5gd61iU,approvato,Blu/verde,Mamme elastiche,15,Blogger Nonsolomamma,Salti mortali,13,0'16'',A misura di famiglia,20,0'39'',rivoluzione,1'21'',famiglia;figli;femminile;qualità della vita;lavoro;flessibile;genitori,,,img/thumbs/
-16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,nNkuLhWH6TI,0DFjjVh6_TU,approvato,Rosso/giallo,Papà migliori,13,Blogger Nonsolomamma,Accorgersi delle cose,21,0'26'',Coinvolgimento condiviso,24,0'50'',-,-,famiglia;figli;parità;una vita diversa;genitori,,,img/thumbs/
-16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,KA3mm_hyNx4,TiKAV0vhrUQ,approvato,Magenta/ciano,Girl power,10,Blogger Nonsolomamma,Sognarsi onnipotenti,20,0'19'',Mediazione,10,1'00'',-,-,femminile;parità;lavoro;potere,,,img/thumbs/
-17,Raffaele Cantone,,,l'etica,1-Dec,,8t-8ri4dw9U,NH-tXI7lLEw,approvato,Blu/verde,La fine dei furbi,17,Autorità anticorruzione,Educazione fiscale,18,0'48'',-,1,-,-,-,tasse;governo;etico;legalità,,,img/thumbs/
-17,Raffaele Cantone,,,l'etica,1-Dec,,c9UAU9HN7EU,IpSijkwvOiI,approvato,Rosso/giallo,Trasparente,11,Autorità anticorruzione,controllo diffuso,17,0'14'',circolo virtuoso,16,1'07'',-,-,istituzioni;digitale;tecnologico;trasparente;cittadini,,,img/thumbs/
-17,Raffaele Cantone,,,l'etica,1-Dec,,n4SfsTpZDjk,kjLZ5OZBo48,approvato,Magenta/ciano,Pubblico meritocratico,22,Autorità anticorruzione,A chi merita,12,0'46'',-,1,-,-,-,istituzioni;pubblica amministrazione;trasparente;corruzione;meritocratico,,,img/thumbs/
-18,Maria Luisa Frisa,,,la moda,2-Dec,,05HN78qfziY,0qxLW42fVt0,approvato,Blu/verde,Gioco fra i sessi ,18,Fashion curator,Totale libertà,14,0'24'',scena culturale,15,0'59'',-,-,moda;genere;globalizzazione;cultura;una vita diversa;femminile,,,img/thumbs/
-18,Maria Luisa Frisa,,,la moda,2-Dec,,ivqJOJKHmkc,J4uv9kSB6PE,approvato,Rosso/giallo,Boutique enciclopedica,22,Fashion curator,Consultabile,12,0'32'',ci penserà il web,17,0'43'',-,-,moda;una vita diversa;consumi;digitale;web,,,img/thumbs/
-18,Maria Luisa Frisa,,,la moda,2-Dec,,fDGDCnXM9ag,bQiw7xVg1YA,approvato,Magenta/ciano,Lavorare made in Italy,22,Fashion curator,Sano disincanto,15,0'43'',simile agli artisti,19,0'52'',-,-,moda;eccellenze italiane;italiano;lavoro,,,img/thumbs/
+15,Paola Antonelli,,,il design,30-Nov,,9KQK6MvnVSk,kVkZF_THViE,APPROVATO,Magenta/ciano,Adeguarsi al presente,21,Curatrice MoMA New York,Nuove piattaforme,17,0'10'',primato italiano,16,0'40'',-,-,musei;digitale;una vita diversa;robot;tecnologico,,,img/thumbs/pantonelli-thumb.png
+16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,NFCejtgFM8o,VnFp5gd61iU,APPROVATO,Blu/verde,Mamme elastiche,15,Blogger Nonsolomamma,Salti mortali,13,0'16'',A misura di famiglia,20,0'39'',rivoluzione,1'21'',famiglia;figli;femminile;qualità della vita;lavoro;flessibile;genitori,,,img/thumbs/
+16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,nNkuLhWH6TI,0DFjjVh6_TU,APPROVATO,Rosso/giallo,Papà migliori,13,Blogger Nonsolomamma,Accorgersi delle cose,21,0'26'',Coinvolgimento condiviso,24,0'50'',-,-,famiglia;figli;parità;una vita diversa;genitori,,,img/thumbs/
+16,"Claudia De Lillo ""Elasti""",,,i figli e i genitori,30-Nov,,KA3mm_hyNx4,TiKAV0vhrUQ,APPROVATO,Magenta/ciano,Girl power,10,Blogger Nonsolomamma,Sognarsi onnipotenti,20,0'19'',Mediazione,10,1'00'',-,-,femminile;parità;lavoro;potere,,,img/thumbs/
+17,Raffaele Cantone,,,l'etica,1-Dec,,8t-8ri4dw9U,NH-tXI7lLEw,APPROVATO,Blu/verde,La fine dei furbi,17,Autorità anticorruzione,Educazione fiscale,18,0'48'',-,1,-,-,-,tasse;governo;etico;legalità,,,img/thumbs/
+17,Raffaele Cantone,,,l'etica,1-Dec,,c9UAU9HN7EU,IpSijkwvOiI,APPROVATO,Rosso/giallo,Trasparente,11,Autorità anticorruzione,controllo diffuso,17,0'14'',circolo virtuoso,16,1'07'',-,-,istituzioni;digitale;tecnologico;trasparente;cittadini,,,img/thumbs/
+17,Raffaele Cantone,,,l'etica,1-Dec,,n4SfsTpZDjk,kjLZ5OZBo48,APPROVATO,Magenta/ciano,Pubblico meritocratico,22,Autorità anticorruzione,A chi merita,12,0'46'',-,1,-,-,-,istituzioni;pubblica amministrazione;trasparente;corruzione;meritocratico,,,img/thumbs/
+18,Maria Luisa Frisa,,,la moda,2-Dec,,05HN78qfziY,0qxLW42fVt0,APPROVATO,Blu/verde,Gioco fra i sessi ,18,Fashion curator,Totale libertà,14,0'24'',scena culturale,15,0'59'',-,-,moda;genere;globalizzazione;cultura;una vita diversa;femminile,,,img/thumbs/
+18,Maria Luisa Frisa,,,la moda,2-Dec,,ivqJOJKHmkc,J4uv9kSB6PE,APPROVATO,Rosso/giallo,Boutique enciclopedica,22,Fashion curator,Consultabile,12,0'32'',ci penserà il web,17,0'43'',-,-,moda;una vita diversa;consumi;digitale;web,,,img/thumbs/
+18,Maria Luisa Frisa,,,la moda,2-Dec,,fDGDCnXM9ag,bQiw7xVg1YA,APPROVATO,Magenta/ciano,Lavorare made in Italy,22,Fashion curator,Sano disincanto,15,0'43'',simile agli artisti,19,0'52'',-,-,moda;eccellenze italiane;italiano;lavoro,,,img/thumbs/
 19,Chiara Tonelli,,,le biotecnologie,6-Dec,,XUwDg40yIA8,AiDXTTEMXb4,approvato,Blu/verde,Opportunità biotech,19,Genetista,Qualità della vita,18,0'17'',alimenti più sicuri,19,"0'31""",farmaci innovativi,0'42'',bio;biotecnologico;positivo;ricerca;sostenibile;ambiente;salute;qualità della vita;agroalimentare;medicina,,,img/thumbs/
 19,Chiara Tonelli,,,le biotecnologie,6-Dec,,_4mKFn9PtEw,y91BUDfDvps,approvato,Rosso/giallo,Superpiante antifame,20,Genetista,Cibo per tutti,14,0'10'',Piante più resistenti,21,0'57'',,,agroalimentare;sostenibile;povertà;sprechi;genetica;ricerca;acqua;risorse,,,img/thumbs/
 19,Chiara Tonelli,,,le biotecnologie,6-Dec,,rGz9zgsbGEQ,H45alCm5t7Q,approvato,Magenta/ciano,Basta bufale,12,Genetista,il caso degli OGM,17,0'15'',veramente i fatti,17,1'03'',-,-,OGM;ricerca;paura;informazione;Internet;vaccini,,,img/thumbs/
@@ -95,39 +95,39 @@ n. intervista,intervistato,top,estero,tema,data_intervista,nome_file,starter_id,
 31,Roberta Ceretto,,,l'enogastronomia,7-Feb,,,,attesa feedback,Blu/verde,,0,Imprenditrice del vino,,0,,,0,,,,,,,
 31,Roberta Ceretto,,,l'enogastronomia,7-Feb,,,,attesa feedback,Rosso/giallo,,0,Imprenditrice del vino,,0,,,0,,,,,,,
 31,Roberta Ceretto,,,l'enogastronomia,7-Feb,,,,attesa feedback,Magenta/ciano,,0,Imprenditrice del vino,,0,,,0,,,,,,,
-32,Melinda Gates,,Y,la filantropia,15-Feb,,Gj89LbRTxv4,L2Z2dtHIeFw,approvato,Blu/verde,Understanding the needs,23,Philantropist,"how, when and where",19,0'14'',having data,11,0'38'',,,big data;positivo;vaccini,,,
-32,Melinda Gates,,Y,la filantropia,15-Feb,,uiNPVTXe8Lw,-IrZv8PADTQ,approvato,Rosso/giallo,Equality on women,17,Philantropist,the crucial issue,17,0'28'',,0,,,,femminile;più equo;scuola;povertà,,,
-32,Melinda Gates,,Y,la filantropia,15-Feb,,4zFkalMusWY,MKM5Ye5yeUI,approvato,Magenta/ciano,A focus on foundations,22,Philantropist,the next challenge,18,0'28'',,0,,,,cibo;vaccini,,,
+32,Melinda Gates,,Y,la filantropia,15-Feb,,Gj89LbRTxv4,L2Z2dtHIeFw,approvato,Blu/verde,Understanding the needs,23,Philanthropist,"how, when and where",19,0'14'',having data,11,0'38'',,,big data;positivo;vaccini,,,
+32,Melinda Gates,,Y,la filantropia,15-Feb,,uiNPVTXe8Lw,-IrZv8PADTQ,approvato,Rosso/giallo,Equality on women,17,Philanthropist,the crucial issue,17,0'28'',,0,,,,femminile;più equo;scuola;povertà,,,
+32,Melinda Gates,,Y,la filantropia,15-Feb,,4zFkalMusWY,MKM5Ye5yeUI,approvato,Magenta/ciano,A focus on foundations,22,Philanthropist,the next challenge,18,0'28'',,0,,,,cibo;vaccini,,,
 33,Vito Mancuso,,,la religione,16-Feb,,zytmAVPoEHs,HyFWg3bV438,approvato,Blu/verde,Mura e ponti,12,Teologo,dà identità,11,0'22'',"un sistema, ma aperto",21,0'39'',,,identità;religione;globalizzazione,,,
 33,Vito Mancuso,,,la religione,16-Feb,,TSDfxDk81bM,rRfGcipE7uA,approvato,Rosso/giallo,Dopo Francesco,14,Teologo,luogo di mediazione,19,0'26'',se dirà di sì,13,0'43'',,,religione;diverso,,,
 33,Vito Mancuso,,,la religione,16-Feb,,hhDpq_kG1I4,CJuylkMZQyc,approvato,Magenta/ciano,La vera scommessa,17,Teologo,custodire homo sapiens,22,0'32'',tensione al compimento,22,0'54'',,,fede;tecnologico,,,
-34,Luciano Floridi,,,i diritti,16-Feb,,OvF6A27ad9Y,5vxgIgdCZtw,approvato,Blu/verde,Diritti mescolati,17,Filosofo,Cose in altre cose,18,0'12'',la mia identità,15,0'34'',Commissione mondiale,1'38'',digitale;diritti;in Europa;istituzioni;positivo,,,
+34,Luciano Floridi,,,i diritti,16-Feb,,OvF6A27ad9Y,5vxgIgdCZtw,approvato,Blu/verde,Diritti da rimescolare,22,Filosofo,Cose in altre cose,18,0'12'',la mia identità,15,0'34'',Commissione mondiale,1'38'',digitale;diritti;in Europa;istituzioni;positivo,,,
 34,Luciano Floridi,,,i diritti,16-Feb,,K2JwX1lU-ZQ,NeozQDFeca8,approvato,Rosso/giallo,Fra Stato e California,22,Filosofo,Controllo dei dati,18,0'16'',Acquistati,10,1'00'',,,diritti;big data;economia,,,
 34,Luciano Floridi,,,i diritti,16-Feb,,gkb26A5jA_Q,DGpNn3fNmuc,approvato,Magenta/ciano,democrazia digitale,19,Filosofo,Ingovernabilità,15,0'33',Scambiarsi idee,15,0'44'',,,digitale;opportunità;governo,,,
-35,Fabiola Gianotti,Y,,la fisica,22-Mar,,,,final edit,Blu/verde,Domande aperte,14,Direttrice del CERN,punto interrogativo,19,,,0,,,,,,,
-35,Fabiola Gianotti,Y,,la fisica,22-Mar,,,,final edit,Rosso/giallo,Applicazioni della fisica,25,Direttrice del CERN,evoluzione dell’universo,24,,tecnologie di punta,19,,“acceleratori”,,,,,
-35,Fabiola Gianotti,Y,,la fisica,22-Mar,,,,final edit,Magenta/ciano,Fisica al femminile,19,Direttrice del CERN,carriere scientifiche,21,,,0,,,,,,,
+35,Fabiola Gianotti,Y,,la fisica,22-Mar,,oIVTFWAPcnw,gIU-OXNVSio,final edit,Blu/verde,Domande aperte,14,Direttore Generale CERN,punto interrogativo,19,,,0,,,,,,,
+35,Fabiola Gianotti,Y,,la fisica,22-Mar,,TD6l6ycLbWU,5IkOc1lP2ns,final edit,Rosso/giallo,Applicazioni della fisica,25,Direttore Generale CERN,evoluzione dell’universo,24,,tecnologie di punta,19,,acceleratori,,,,,
+35,Fabiola Gianotti,Y,,la fisica,22-Mar,,VY_3lDJ24Ls,HnS_jZqgEJ4,final edit,Magenta/ciano,Fisica al femminile,19,Direttore Generale CERN,carriere scientifiche,21,,,0,,,,,,,
 36,Jovanotti,Y,,la musica,1-Mar,,c5wSZ4SWFxc,HfdmwADCLKc,approvato,Blu/verde,Idee in musica,14,Cantautore,la forma canzone,16,,idee vincenti,13,,poetica,,musica;cultura;innovativo;accessibile,,,
 36,Jovanotti,Y,,la musica,1-Mar,,dRk9Yl3kepY,M8stERpijDY,approvato,Rosso/giallo,Live!,5,Cantautore,una liturgia,12,,cambia la vita,14,,,,musica;cultura,,,
 36,Jovanotti,Y,,la musica,1-Mar,,riOluCL5UZU,fxe-VpIn-Ko,approvato,Magenta/ciano,Al cuore della musica,21,Cantautore,informazione che emoziona,25,,solo grazie alla musica,23,,,,musica;arte;cultura,,,
 37,Barbara Stefanelli,,,il gender gap,17-Mar,,yTMlg5AI074,XPZhUTMCC7A,approvato,Blu/verde,Femminismo digitale,19,Giornalista sportiva,non incassare,13,,He for she,10,,,,web;internet;femminile;minacce;opportunità;social network,,,
 37,Barbara Stefanelli,,,il gender gap,17-Mar,,7splu0JT3U0,-LXipr5BCcY,approvato,Rosso/giallo,Condivisione,12,Giornalista sportiva,dagli uomini,12,,capitale di tempo,17,,,,femminile;parità;famiglia;flessibile;genitori,,,
 37,Barbara Stefanelli,,,il gender gap,17-Mar,,YpBHmff2SPU,kFN0xewcgwc,approvato,Magenta/ciano,Divari da chiudere,18,Giornalista sportiva,prima e meglio,14,,pay gap,7,,,,femminile;parità;scuola;lavoro;meritocratico,,,
-38,Laura Cozzi,,,,19 Apr,,,,intervista fissata,Blu/verde,,0,,,0,, ,1,,,,,,,
-38,Laura Cozzi,,,,19 Apr,,,,intervista fissata,Rosso/giallo,,0,,,0,,,0,,,,,,,
-38,Laura Cozzi,,,,19 Apr,,,,intervista fissata,Magenta/ciano,,0,,,0,,,0,,,,,,,
-39,Henry Kissinger,,,,20-Apr,,,,intervista fissata,Blu/verde,,0,,,0,,,0,,,,,,,
-39,Henry Kissinger,,,,20-Apr,,,,intervista fissata,Rosso/giallo,,0,,,0,,,0,,,,,,,
-39,Henry Kissinger,,,,20-Apr,,,,intervista fissata,Magenta/ciano,,0,,,0,,,0,,,,,,,
-40,Don Ciotti,,,,,,,,accettato,Blu/verde,,0,,,0,,,0,,,,,,,
-40,Don Ciotti,,,,,,,,accettato,Rosso/giallo,,0,,,0,,,0,,,,,,,
-40,Don Ciotti,,,,,,,,accettato,Magenta/ciano,,0,,,0,,,0,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,
-,,,,,,,,,,,,0,,,0,,,0,,,,,,,
+38,Laura Cozzi,,,,19 Apr,,,,riprese,Blu/verde,,0,International Energy Agency,,0,, ,1,,,,,,,
+38,Laura Cozzi,,,,19 Apr,,,,riprese,Rosso/giallo,,0,International Energy Agency,,0,,,0,,,,,,,
+38,Laura Cozzi,,,,19 Apr,,,,riprese,Magenta/ciano,,0,International Energy Agency,,0,,,0,,,,,,,
+39,Henry Kissinger,,,,20-Apr,,,,accettato,Blu/verde,,0,Diplomatico,,0,,,0,,,,,,,
+39,Henry Kissinger,,,,20-Apr,,,,accettato,Rosso/giallo,,0,Diplomatico,,0,,,0,,,,,,,
+39,Henry Kissinger,,,,20-Apr,,,,accettato,Magenta/ciano,,0,Diplomatico,,0,,,0,,,,,,,
+40,Don Ciotti,,,,,,,,accettato,Blu/verde,,0,Prete e fondatore Libera,,0,,,0,,,,,,,
+40,Don Ciotti,,,,,,,,accettato,Rosso/giallo,,0,Prete e fondatore Libera,,0,,,0,,,,,,,
+40,Don Ciotti,,,,,,,,accettato,Magenta/ciano,,0,Prete e fondatore Libera,,0,,,0,,,,,,,
+41,Elon Musk,,,,20-Apr,,,,accettato,Blu/verde,,0,CEO Tesla Inc.,,0,,,0,,,,,,,
+41,Elon Musk,,,,20-Apr,,,,accettato,Rosso/giallo,,0,CEO Tesla Inc.,,0,,,0,,,,,,,
+41,Elon Musk,,,,20-Apr,,,,accettato,Magenta/ciano,,0,CEO Tesla Inc.,,0,,,0,,,,,,,
+42,Lara Favaretto,,,,,,,,,,,0,,,0,,,0,,,,,,,
+42,Lara Favaretto,,,,,,,,,,,0,,,0,,,0,,,,,,,
+42,Lara Favaretto,,,,,,,,,,,0,,,0,,,0,,,,,,,
 ,,,,,,,,,,,,0,,,0,,,0,,,,,,,
 ,,,,,,,,,,,,0,,,0,,,0,,,,,,,
 ,,,,,,,,,,,,0,,,0,,,0,,,,,,,
